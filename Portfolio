@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mike Markum Portfolio</title>
+</head>
+ <body>
+    <header>
+        <h1>Mike Markum</h1>
+        <p>Aspiring Web Developer</p>
+    </header>
+    <main>
+        <section id="about-me">
+            <h2>About Me</h2>
+            <p>Hello! My name is Mike Markum, and I am an aspiring web developer with a focus on HTML, CSS, and JavaScript. I enjoy building clean, simple, and accessible websites and I am ready to start a career in Web Development.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <article>
+                <h3>Business Card</h3>
+                <p>A simple business card project built with HTML and CSS. This project focuses on layout, typography, and basic styling.</p>
+                <a href="BusinessCard.html">Business Card</a> |
+                 <a href="#">Source Code</a>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Contact me at: <a href="mailto:slypher00@gmail.com">slypher00@gmail.com</a></p>
+        <p>
+            <a href="https://github.com/Slypher00">GitHub</a> |
+            <a href="https://profile.indeed.com/p/michaelm-pj38tvv">Indeed</a>
+        </p>
+    </footer>
+ </body>
+</html>
